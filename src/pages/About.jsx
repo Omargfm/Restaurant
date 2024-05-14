@@ -20,6 +20,14 @@ function About() {
             amigos y familias que buscaban disfrutar de una pizza genuina y
             deliciosa. Hemos estado haciendo fusiones para que cada pizza que te
             lleves a casa sea del gusto de toda la familia.
+
+            <br /> <br />
+            Estamos ubicados en San Eugenio 1331, Ñuñoa
+            <br /> <br />
+            TLF +569 2548 7459
+            <br /> <br />
+            Disfruta de todas nuestras especialidades......!!!!!!
+          
           </p>
         </div>
       </div>
