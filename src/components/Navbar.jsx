@@ -17,9 +17,9 @@ function Navbar() {
                 <div className="hiddenLinks">
                     <Link to="/"> Home </Link>
                     <Link to="/menu"> Menu </Link>
-                    <Link to="/about"> About </Link>
-                    <Link to="/reservas"> Reserve </Link>
-                    <Link to="/contact"> Contact </Link>
+                    <Link to="/about"> Nosotros </Link>
+                    <Link to="/reservas"> Reservas </Link>
+                    <Link to="/contact"> Contacto </Link>
                 
                 </div>
             </div>
