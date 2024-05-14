@@ -12,7 +12,7 @@ function About() {
         <div className="aboutBottom">
           <h1> ABOUT US</h1>
           <p>
-            Bienvenidos a Pizzería La Tradición, donde cada rebanada cuenta una
+            Bienvenidos a Pizzería Omar, donde cada rebanada cuenta una
             historia. Nuestra pizzería ha sido un pilar de la comunidad desde
             que nuestros abuelos la fundaron en 1960. Desde entonces, hemos
             dedicado nuestras vidas a preservar las recetas familiares y el
@@ -21,8 +21,8 @@ function About() {
             las ricas tradiciones culinarias de Italia. Con pasión y dedicación,
             abrieron las puertas de nuestro primer local, que pronto se
             convirtió en un lugar de encuentro para amigos y familias que
-            buscaban disfrutar de una pizza genuina y deliciosa. En Pizzería La
-            Tradición, creemos en la importancia de mantener vivas las técnicas
+            buscaban disfrutar de una pizza genuina y deliciosa. En Pizzería
+            Omar, creemos en la importancia de mantener vivas las técnicas
             artesanales. Cada pizza es elaborada con ingredientes frescos y de
             la más alta calidad, seleccionados cuidadosamente para asegurar que
             cada bocado sea una experiencia memorable. Nuestra masa se prepara a
