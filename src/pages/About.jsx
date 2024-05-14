@@ -10,7 +10,7 @@ function About() {
           style={{ backgroundImage: `url(${MultiplePizzas})` }}
         ></div>
         <div className="aboutBottom">
-          <h1> ABOUT US</h1>
+          <h1> Sobre Nosotros</h1>
           <p>
             Bienvenidos a Pizzería Omar, donde cada rebanada cuenta una
             historia. Nuestra pizzería ha sido un pilar de la comunidad desde
